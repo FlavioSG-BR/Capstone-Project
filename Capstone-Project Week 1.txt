@@ -1,0 +1,3 @@
+Capstone Project - The Battle of Neighborhoods (Week 1)
+
+For this final work we will use the Foursquare API to find tourist spots such as museums, parks and galleries in the city of Toronto and analyze their locations, thus finding the best neighborhoods for tourists to visit according to their preferences for visitation and leisure.
