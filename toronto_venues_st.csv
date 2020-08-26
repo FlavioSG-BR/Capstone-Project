@@ -1,0 +1,39 @@
+;Neighbourhood;Neighbourhood Latitude;Neighbourhood Longitude;Venue;Venue Latitude;Venue Longitude;Venue Category
+0;Rouge Hill, Port Union, Highland Creek;43,784535100000000;-79,1604971000;Scarborough Historical Society;43,78875526434550;-79,16243791580200;History Museum
+1;Don Mills;43,7258997000000;-79,3409230000;Moriyama Nikkei Heritage Centre;43,72649400000000;-79,33483000000000;History Museum
+2;Regent Park, Harbourfront;43,6542599000;-79,3606359000;Enoch Turner Schoolhouse;43,65287311275050;-79,36167245046330;History Museum
+3;Garden District, Ryerson;43,6571618000;-79,3789371000;Friar’s Music Museum;43,65566200000000;-79,38042600000000;Museum
+4;Garden District, Ryerson;43,6571618000;-79,3789371000;Dance Collection Danse;43,65392400000000;-79,37591800000000;Art Museum
+5;Garden District, Ryerson;43,6571618000;-79,3789371000;Elgin Theatre Loading Dock;43,65272822317130;-79,37836798586160;Art Museum
+6;St. James Town;43,6514939000;-79,3754179000;Toronto Sculpture Garden;43,64989519212010;-79,37371459456670;Art Gallery
+7;St. James Town;43,6514939000;-79,3754179000;Ontario Heritage Trust;43,65049023916580;-79,37801990880160;Office
+8;Berczy Park;43,6447708000;-79,3733064000;Hockey Hall Of Fame (Hockey Hall of Fame);43,64697445143100;-79,37732323942680;Museum
+9;Berczy Park;43,6447708000;-79,3733064000;Redpath Sugar;43,64335642880130;-79,37044961388770;Building
+10;Berczy Park;43,6447708000;-79,3733064000;Egg Beater;43,64328932176700;-79,37644344381550;Art Museum
+11;Central Bay Street;43,6579524000;-79,3873826000;Textile Museum of Canada;43,65439630500270;-79,38650010906940;Art Museum
+12;Central Bay Street;43,6579524000;-79,3873826000;Toronto Police Museum;43,66118880223960;-79,38470280694750;History Museum
+13;Central Bay Street;43,6579524000;-79,3873826000;Museum Of The End Of The World;43,65406100000000;-79,38545200000000;Museum
+14;Richmond, Adelaide, King;43,6505712000;-79,3845675000;Textile Museum of Canada;43,65439630500270;-79,38650010906940;Art Museum
+15;Richmond, Adelaide, King;43,6505712000;-79,3845675000;Museum Of The End Of The World;43,65406100000000;-79,38545200000000;Museum
+16;Richmond, Adelaide, King;43,6505712000;-79,3845675000;48Th Highlanders Museum;43,64689000000000;-79,38576000000000;History Museum
+17;Harbourfront East, Union Station, Toronto Islands;43,6408157000;-79,3817523000;Toronto Railway Heritage Centre;43,64130010529890;-79,38588431405730;History Museum
+18;Harbourfront East, Union Station, Toronto Islands;43,6408157000;-79,3817523000;Toronto Railway Museum;43,64074506722830;-79,38598104134530;History Museum
+19;Harbourfront East, Union Station, Toronto Islands;43,6408157000;-79,3817523000;Museum Of Failure;43,63879500000000;-79,38331800000000;History Museum
+20;Toronto Dominion Centre, Design Exchange;43,6471768000;-79,3815764000;Hockey Hall Of Fame (Hockey Hall of Fame);43,64697445143100;-79,37732323942680;Museum
+21;Toronto Dominion Centre, Design Exchange;43,6471768000;-79,3815764000;HHOF;43,64797200000000;-79,38007100000000;History Museum
+22;Toronto Dominion Centre, Design Exchange;43,6471768000;-79,3815764000;48Th Highlanders Museum;43,64689000000000;-79,38576000000000;History Museum
+23;Toronto Dominion Centre, Design Exchange;43,6471768000;-79,3815764000;Ontario Heritage Trust;43,65049023916580;-79,37801990880160;Office
+24;Commerce Court, Victoria Hotel;43,6481985000;-79,3798169000;Hockey Hall Of Fame (Hockey Hall of Fame);43,64697445143100;-79,37732323942680;Museum
+25;Commerce Court, Victoria Hotel;43,6481985000;-79,3798169000;Ontario Heritage Trust;43,65049023916580;-79,37801990880160;Office
+26;Commerce Court, Victoria Hotel;43,6481985000;-79,3798169000;48Th Highlanders Museum;43,64689000000000;-79,38576000000000;History Museum
+27;The Annex, North Midtown, Yorkville;43,6727097000;-79,4056784000;Toronto Archives;43,67644734460620;-79,40750861881340;History Museum
+28;Kensington Market, Chinatown, Grange Park;43,6532057000;-79,4000493000;Ontario Museum Association;43,65581600000000;-79,39510100000000;Museum
+29;Kensington Market, Chinatown, Grange Park;43,6532057000;-79,4000493000;Toronto Workers' History Project;43,65658253607120;-79,39598321914670;History Museum
+30;Stn A PO Boxes;43,6464352000;-79,3748460000;Hockey Hall Of Fame (Hockey Hall of Fame);43,64697445143100;-79,37732323942680;Museum
+31;Stn A PO Boxes;43,6464352000;-79,3748460000;Toronto Sculpture Garden;43,64989519212010;-79,37371459456670;Art Gallery
+32;Stn A PO Boxes;43,6464352000;-79,3748460000;Redpath Sugar;43,64335642880130;-79,37044961388770;Building
+33;First Canadian Place, Underground city;43,6484292000;-79,3822802000;Hockey Hall Of Fame (Hockey Hall of Fame);43,64697445143100;-79,37732323942680;Museum
+34;First Canadian Place, Underground city;43,6484292000;-79,3822802000;48Th Highlanders Museum;43,64689000000000;-79,38576000000000;History Museum
+35;First Canadian Place, Underground city;43,6484292000;-79,3822802000;Ontario Heritage Trust;43,65049023916580;-79,37801990880160;Office
+36;Del Ray, Mount Dennis, Keelsdale and Silverthorn;43,6911158000;-79,4760133000;York Museum;43,68973742286620;-79,47694301605220;Museum
+37;Queen's Park, Ontario Provincial Government;43,6623015000;-79,3894938000;Toronto Police Museum;43,66118880223960;-79,38470280694750;History Museum

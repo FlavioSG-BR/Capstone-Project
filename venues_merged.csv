@@ -1,0 +1,40 @@
+;Postalcode;Borough;Neighbourhood;Latitude;Longitude;Neighbourhood Latitude;Neighbourhood Longitude;Venue;Venue Latitude;Venue Longitude;Venue Category
+0;M1C;Scarborough;Rouge Hill, Port Union, Highland Creek;437.845.351;-7.916.049.709.999.990;437.845.351;-7.916.049.709.999.990;Scarborough Historical Society;4.378.875.526.434.550;-79.162.437.915.802;History Museum
+1;M3B;North York;Don Mills;43.745.905.799.999.900;-79.352.188;4.372.589.970.000.000;-79.340.923;Moriyama Nikkei Heritage Centre;43.726.494;-7.933.483;History Museum
+2;M3C;North York;Don Mills;4.372.589.970.000.000;-79.340.923;4.372.589.970.000.000;-79.340.923;Moriyama Nikkei Heritage Centre;43.726.494;-7.933.483;History Museum
+3;M5A;Downtown Toronto;Regent Park, Harbourfront;436.542.599;-793.606.359;436.542.599;-793.606.359;Enoch Turner Schoolhouse;4.365.287.311.275.050;-7.936.167.245.046.330;History Museum
+4;M5B;Downtown Toronto;Garden District, Ryerson;436.571.618;-7.937.893.709.999.990;436.571.618;-7.937.893.709.999.990;Friar’s Music Museum;43.655.662;-79.380.426;Museum
+5;M5B;Downtown Toronto;Garden District, Ryerson;436.571.618;-7.937.893.709.999.990;436.571.618;-7.937.893.709.999.990;Dance Collection Danse;43.653.924;-79.375.918;Art Museum
+6;M5B;Downtown Toronto;Garden District, Ryerson;436.571.618;-7.937.893.709.999.990;436.571.618;-7.937.893.709.999.990;Elgin Theatre Loading Dock;4.365.272.822.317.130;-7.937.836.798.586.160;Art Museum
+7;M5C;Downtown Toronto;St. James Town;436.514.939;-793.754.179;436.514.939;-793.754.179;Toronto Sculpture Garden;43.649.895.192.120.100;-7.937.371.459.456.670;Art Gallery
+8;M5C;Downtown Toronto;St. James Town;436.514.939;-793.754.179;436.514.939;-793.754.179;Ontario Heritage Trust;4.365.049.023.916.580;-793.780.199.088.016;Office
+9;M5E;Downtown Toronto;Berczy Park;43.644.770.799.999.900;-793.733.064;43.644.770.799.999.900;-793.733.064;Hockey Hall Of Fame (Hockey Hall of Fame);43.646.974.451.431.000;-7.937.732.323.942.680;Museum
+10;M5E;Downtown Toronto;Berczy Park;43.644.770.799.999.900;-793.733.064;43.644.770.799.999.900;-793.733.064;Redpath Sugar;43.643.356.428.801.300;-793.704.496.138.877;Building
+11;M5E;Downtown Toronto;Berczy Park;43.644.770.799.999.900;-793.733.064;43.644.770.799.999.900;-793.733.064;Egg Beater;4.364.328.932.176.700;-7.937.644.344.381.550;Art Museum
+12;M5G;Downtown Toronto;Central Bay Street;436.579.524;-793.873.826;436.579.524;-793.873.826;Textile Museum of Canada;4.365.439.630.500.270;-7.938.650.010.906.940;Art Museum
+13;M5G;Downtown Toronto;Central Bay Street;436.579.524;-793.873.826;436.579.524;-793.873.826;Toronto Police Museum;4.366.118.880.223.960;-7.938.470.280.694.750;History Museum
+14;M5G;Downtown Toronto;Central Bay Street;436.579.524;-793.873.826;436.579.524;-793.873.826;Museum Of The End Of The World;43.654.061;-79.385.452;Museum
+15;M5H;Downtown Toronto;Richmond, Adelaide, King;4.365.057.120.000.000;-793.845.675;4.365.057.120.000.000;-793.845.675;Textile Museum of Canada;4.365.439.630.500.270;-7.938.650.010.906.940;Art Museum
+16;M5H;Downtown Toronto;Richmond, Adelaide, King;4.365.057.120.000.000;-793.845.675;4.365.057.120.000.000;-793.845.675;Museum Of The End Of The World;43.654.061;-79.385.452;Museum
+17;M5H;Downtown Toronto;Richmond, Adelaide, King;4.365.057.120.000.000;-793.845.675;4.365.057.120.000.000;-793.845.675;48Th Highlanders Museum;4.364.689;-7.938.576;History Museum
+18;M5J;Downtown Toronto;Harbourfront East, Union Station, Toronto Islands;436.408.157;-7.938.175.229.999.990;436.408.157;-7.938.175.229.999.990;Toronto Railway Heritage Centre;4.364.130.010.529.890;-7.938.588.431.405.730;History Museum
+19;M5J;Downtown Toronto;Harbourfront East, Union Station, Toronto Islands;436.408.157;-7.938.175.229.999.990;436.408.157;-7.938.175.229.999.990;Toronto Railway Museum;4.364.074.506.722.830;-7.938.598.104.134.530;History Museum
+20;M5J;Downtown Toronto;Harbourfront East, Union Station, Toronto Islands;436.408.157;-7.938.175.229.999.990;436.408.157;-7.938.175.229.999.990;Museum Of Failure;43.638.795;-79.383.318;History Museum
+21;M5K;Downtown Toronto;Toronto Dominion Centre, Design Exchange;436.471.768;-7.938.157.640.000.000;436.471.768;-7.938.157.640.000.000;Hockey Hall Of Fame (Hockey Hall of Fame);43.646.974.451.431.000;-7.937.732.323.942.680;Museum
+22;M5K;Downtown Toronto;Toronto Dominion Centre, Design Exchange;436.471.768;-7.938.157.640.000.000;436.471.768;-7.938.157.640.000.000;HHOF;43.647.972;-79.380.071;History Museum
+23;M5K;Downtown Toronto;Toronto Dominion Centre, Design Exchange;436.471.768;-7.938.157.640.000.000;436.471.768;-7.938.157.640.000.000;48Th Highlanders Museum;4.364.689;-7.938.576;History Museum
+24;M5K;Downtown Toronto;Toronto Dominion Centre, Design Exchange;436.471.768;-7.938.157.640.000.000;436.471.768;-7.938.157.640.000.000;Ontario Heritage Trust;4.365.049.023.916.580;-793.780.199.088.016;Office
+25;M5L;Downtown Toronto;Commerce Court, Victoria Hotel;436.481.985;-7.937.981.690.000.000;436.481.985;-7.937.981.690.000.000;Hockey Hall Of Fame (Hockey Hall of Fame);43.646.974.451.431.000;-7.937.732.323.942.680;Museum
+26;M5L;Downtown Toronto;Commerce Court, Victoria Hotel;436.481.985;-7.937.981.690.000.000;436.481.985;-7.937.981.690.000.000;Ontario Heritage Trust;4.365.049.023.916.580;-793.780.199.088.016;Office
+27;M5L;Downtown Toronto;Commerce Court, Victoria Hotel;436.481.985;-7.937.981.690.000.000;436.481.985;-7.937.981.690.000.000;48Th Highlanders Museum;4.364.689;-7.938.576;History Museum
+28;M5R;Central Toronto;The Annex, North Midtown, Yorkville;436.727.097;-7.940.567.840.000.000;436.727.097;-7.940.567.840.000.000;Toronto Archives;4.367.644.734.460.620;-7.940.750.861.881.340;History Museum
+29;M5T;Downtown Toronto;Kensington Market, Chinatown, Grange Park;436.532.057;-794.000.493;436.532.057;-794.000.493;Ontario Museum Association;43.655.816;-79.395.101;Museum
+30;M5T;Downtown Toronto;Kensington Market, Chinatown, Grange Park;436.532.057;-794.000.493;436.532.057;-794.000.493;Toronto Workers' History Project;436.565.825.360.712;-7.939.598.321.914.670;History Museum
+31;M5W;Downtown Toronto;Stn A PO Boxes;436.464.352;-7.937.484.599.999.990;436.464.352;-7.937.484.599.999.990;Hockey Hall Of Fame (Hockey Hall of Fame);43.646.974.451.431.000;-7.937.732.323.942.680;Museum
+32;M5W;Downtown Toronto;Stn A PO Boxes;436.464.352;-7.937.484.599.999.990;436.464.352;-7.937.484.599.999.990;Toronto Sculpture Garden;43.649.895.192.120.100;-7.937.371.459.456.670;Art Gallery
+33;M5W;Downtown Toronto;Stn A PO Boxes;436.464.352;-7.937.484.599.999.990;436.464.352;-7.937.484.599.999.990;Redpath Sugar;43.643.356.428.801.300;-793.704.496.138.877;Building
+34;M5X;Downtown Toronto;First Canadian Place, Underground city;436.484.292;-793.822.802;436.484.292;-793.822.802;Hockey Hall Of Fame (Hockey Hall of Fame);43.646.974.451.431.000;-7.937.732.323.942.680;Museum
+35;M5X;Downtown Toronto;First Canadian Place, Underground city;436.484.292;-793.822.802;436.484.292;-793.822.802;48Th Highlanders Museum;4.364.689;-7.938.576;History Museum
+36;M5X;Downtown Toronto;First Canadian Place, Underground city;436.484.292;-793.822.802;436.484.292;-793.822.802;Ontario Heritage Trust;4.365.049.023.916.580;-793.780.199.088.016;Office
+37;M6M;York;Del Ray, Mount Dennis, Keelsdale and Silverthorn;436.911.158;-7.947.601.329.999.990;436.911.158;-7.947.601.329.999.990;York Museum;4.368.973.742.286.620;-7.947.694.301.605.220;Museum
+38;M7A;Downtown Toronto;Queen's Park, Ontario Provincial Government;436.623.015;-793.894.938;436.623.015;-793.894.938;Toronto Police Museum;4.366.118.880.223.960;-7.938.470.280.694.750;History Museum

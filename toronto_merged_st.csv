@@ -1,0 +1,19 @@
+;Postalcode;Borough;Neighbourhood;Latitude;Longitude;Cluster Labels;1st Most Common Venue;2nd Most Common Venue;3rd Most Common Venue;4th Most Common Venue;5th Most Common Venue;6th Most Common Venue
+1;M1C;Scarborough;Rouge Hill, Port Union, Highland Creek;43,7845351000000000;-79,1604970999999000;0;History Museum;Office;Museum;Building;Art Museum;Art Gallery
+26;M3B;North York;Don Mills;43,7459057999999000;-79,3521880000000000;0;History Museum;Office;Museum;Building;Art Museum;Art Gallery
+27;M3C;North York;Don Mills;43,7258997000000000;-79,3409230000000000;0;History Museum;Office;Museum;Building;Art Museum;Art Gallery
+53;M5A;Downtown Toronto;Regent Park, Harbourfront;43,6542599000000000;-79,3606359000000000;0;History Museum;Office;Museum;Building;Art Museum;Art Gallery
+54;M5B;Downtown Toronto;Garden District, Ryerson;43,6571618000000000;-79,3789370999999000;1;Art Museum;Museum;Office;History Museum;Building;Art Gallery
+55;M5C;Downtown Toronto;St. James Town;43,6514939000000000;-79,3754179000000000;1;Office;Art Gallery;Museum;History Museum;Building;Art Museum
+56;M5E;Downtown Toronto;Berczy Park;43,6447707999999000;-79,3733064000000000;1;Museum;Building;Art Museum;Office;History Museum;Art Gallery
+57;M5G;Downtown Toronto;Central Bay Street;43,6579524000000000;-79,3873826000000000;1;Museum;History Museum;Art Museum;Office;Building;Art Gallery
+58;M5H;Downtown Toronto;Richmond, Adelaide, King;43,6505712000000000;-79,3845675000000000;1;Museum;History Museum;Art Museum;Office;Building;Art Gallery
+59;M5J;Downtown Toronto;Harbourfront East, Union Station, Toronto Islands;43,6408157000000000;-79,3817522999999000;0;History Museum;Office;Museum;Building;Art Museum;Art Gallery
+60;M5K;Downtown Toronto;Toronto Dominion Centre, Design Exchange;43,6471768000000000;-79,3815764000000000;1;History Museum;Office;Museum;Building;Art Museum;Art Gallery
+61;M5L;Downtown Toronto;Commerce Court, Victoria Hotel;43,6481985000000000;-79,3798169000000000;1;Office;Museum;History Museum;Building;Art Museum;Art Gallery
+65;M5R;Central Toronto;The Annex, North Midtown, Yorkville;43,6727097000000000;-79,4056784000000000;0;History Museum;Office;Museum;Building;Art Museum;Art Gallery
+67;M5T;Downtown Toronto;Kensington Market, Chinatown, Grange Park;43,6532057000000000;-79,4000493000000000;1;Museum;History Museum;Office;Building;Art Museum;Art Gallery
+69;M5W;Downtown Toronto;Stn A PO Boxes;43,6464352000000000;-79,3748459999999000;1;Museum;Building;Art Gallery;Office;History Museum;Art Museum
+70;M5X;Downtown Toronto;First Canadian Place, Underground city;43,6484292000000000;-79,3822802000000000;1;Office;Museum;History Museum;Building;Art Museum;Art Gallery
+80;M6M;York;Del Ray, Mount Dennis, Keelsdale and Silverthorn;43,6911158000000000;-79,4760132999999000;1;Museum;Office;History Museum;Building;Art Museum;Art Gallery
+85;M7A;Downtown Toronto;Queen's Park, Ontario Provincial Government;43,6623015000000000;-79,3894938000000000;0;History Museum;Office;Museum;Building;Art Museum;Art Gallery
